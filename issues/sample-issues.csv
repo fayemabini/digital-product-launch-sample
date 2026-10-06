@@ -1,0 +1,9 @@
+Issue,Title,Label,Priority,Owner,Due,Status,Acceptance Criteria
+1,Finalize curriculum outline,content,High,Subject Matter Expert,Week 1,In Progress,Approved outline uploaded; all modules have learning objectives
+2,Build WooCommerce product page,web,High,Web Specialist,Week 2,To Do,"Product created; pricing, refund copy, and checkout settings match approved brief"
+3,Configure LearnDash course shell,lms,High,LMS Specialist,Week 2,In Progress,Modules created; access rules configured; test learner can enter course
+4,Edit lesson videos 1–10,video,High,Video Editor,Week 3,In Progress,"All videos exported, captions checked, branding applied, no critical QA issues"
+5,Draft launch email sequence,marketing,Medium,Copywriter,Week 3,Review,5-email sequence complete and approved
+6,Run checkout QA,qa,High,QA Reviewer,Week 4,To Do,Successful test purchase on desktop and mobile; access email received
+7,Prepare learner onboarding email,ops,High,Project Manager,Week 4,To Do,"Welcome email includes login, schedule, support contact, and first-session details"
+8,Launch readiness review,project,High,Project Manager,Week 4,To Do,All critical checklist items complete; open risks documented; go/no-go decision recorded
