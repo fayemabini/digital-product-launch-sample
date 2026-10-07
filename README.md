@@ -70,6 +70,7 @@ This repository is designed to show my approach to:
 - Clear acceptance criteria
 - Post-launch improvement
 
+[Link to Kanban board](https://github.com/users/fayemabini/projects/2/views/1)
 ---
 
 **Note:** This is a fictional sample project. It does not contain confidential information from any employer or client.
